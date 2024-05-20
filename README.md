@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Bokka</h1>
-<h3 align="center">Former Intern @ Nomura | Built Spellmint @ Hurrae | Web Development Head at E-Cell IIIT Pune | IIIT Pune</h3>
+<h3 align="center">Former Intern @ Nomura | Built Spellmint @ Hurrae | Web-Dev Head at E-Cell IIIT Pune</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-b&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-b" /> </p>
 
