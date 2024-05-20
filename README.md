@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Bokka</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">Former Intern @ Nomura | Built Spellmint @ Hurrae | Web Development Head at E-Cell IIIT Pune | IIIT Pune</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-b&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-b" /> </p>
 
@@ -26,4 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvan-b&show_icons=true&locale=en&layout=compact" alt="bhuvan-b" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvan-b&show_icons=true&locale=en" alt="bhuvan-b" /></p>
+![](https://github-readme-stats.vercel.app/api?username=bhuvan-b&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-b&theme=default&hide_border=false)<br/>
